@@ -616,7 +616,7 @@ footer h2{
         height: 20vh;
         background-color: #F7F5F9;
         border: solid 1px #EADFFF;
-        padding: 40px;
+        padding: 20px;
         color: #211f1f;
         
     }
@@ -656,13 +656,13 @@ footer h2{
 
     .divided img{
         width: 90vw;
-        height: 43vh;
+        height: 40vh;
         
     }
 
     .divided-card{
         width: 90vw;
-        height: 43vh;
+        height: 40vh;
         background-color: #00387a;
         border:solid 1px #00387a ;
         border-radius: 5px;
