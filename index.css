@@ -951,7 +951,7 @@ footer h2{
     }
 
     .footer{
-        height: 35vh;
+        height: 30vh;
         background-color: #00387a;
         color: #FAFEFE;
         padding:40px ;
@@ -1097,6 +1097,8 @@ footer h2{
         padding-top: 10px;
         padding: 20px;
         color: #211f1f;
+    
+        animation: slider 4s forwards 2s  linear;
     }
 
     .card h1{
@@ -1211,6 +1213,8 @@ footer h2{
         border-radius: 5px;
         padding: 20px;
         color: #211f1f;
+        animation: slider2 12s forwards 2s  linear;
+
     }
 
     .aboutcard a {
@@ -1255,6 +1259,8 @@ footer h2{
         color: #211f1f;
         border: solid 1px #EADFFF;
         border-radius: 5px;
+        animation: slider 18s forwards 2s  linear;
+
     }
 
     .product1{
@@ -1353,6 +1359,8 @@ footer h2{
         padding: 20px;
         color: #211f1f;
         border: solid 1px #EADFFF;
+        animation: slider 30s forwards 2s  linear;
+
     }
 
     .nextcard h5{
@@ -1447,6 +1455,27 @@ footer h2{
     }
 
     .end p{
-        opacity: 50%;
+        opacity: 0.5;
+    }
+}
+
+@keyframes slider{
+    0%{
+        transform: translateX(-500px);
+    }
+
+    100%{
+        transform: translateX(0);
+    }
+    
+}
+
+@keyframes slider2{
+    0%{
+        transform: translateX(500px);
+    }
+
+    100%{
+        transform: translateX(0);
     }
 }
