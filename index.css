@@ -22,7 +22,13 @@ html{
     
 }
 
+.desktop-home img {
+    height: 60vh;
+}
+
 .desktop-home nav{
+    margin-top: 2px;
+
 
     flex-direction: row;
 
@@ -114,12 +120,11 @@ span{
 }
 .container{
     display: flex;
-    flex: 1;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .card{
-    width: 22vw;
+    width: 20vw;
     height: 35vh;
     background-color: #F7F5F9;
     border: solid 1px #EADFFF;
@@ -171,11 +176,23 @@ span{
 
 .divided-card{
     width: 90vw;
-    height: 80vh;
+    height: 70vh;
     background-color: #00387a;
     border: solid 1px #00387a;
     border-radius: 5px;
     padding: 2rem;
+}
+
+
+.divided-card img{
+    height: 4vh;
+    width: 120px;
+
+}
+
+.right{
+    display: block;
+    float: right;
 }
 
 .divided h4{
@@ -273,7 +290,7 @@ span{
 
 .productcard{
     width: 30vw;
-    height: 30vh;
+    height: 32vh;
     background-color: #ECECEC;
     border: solid 1px #EADFFF;
     padding: 20px;
@@ -319,7 +336,7 @@ span{
 
 .client img{
     height: 80vh;
-    width: 45vw;
+    width: 40vw;
 }
 
 .client h1{
@@ -329,7 +346,7 @@ span{
 }
 
 .clientcard{
-    width: 45vw;
+    width: 50vw;
     height: 80vh;
     background-color: #00387a;
     border: solid 1px #00387a;
@@ -520,7 +537,7 @@ footer h2{
 
     }
     .home{
-        height:45vh;
+        height:35vh;
         background-color: #FAFEFE; 
         display: block;
 
@@ -576,7 +593,7 @@ footer h2{
     .banner button{
         margin-top: 10px;
         width: 15vw;
-        height: 4vh;
+        height: 2.5vh;
         color: #FAFEFE;
         background-color: #00387a;
         border: none;
@@ -584,7 +601,7 @@ footer h2{
     }
 
     .card-section {
-        height: 40vh;
+        height: 30vh;
         background-color: #FAFEFE;
         padding: 20px;
         
@@ -592,16 +609,15 @@ footer h2{
     }
     .container{
         display: flex;
-        flex: 1;
+        justify-content: space-between;
     }
 
     .card{
         width: 22vw;
-        height: 25vh;
+        height: 20vh;
         background-color: #F7F5F9;
         border: solid 1px #EADFFF;
         padding: 40px;
-        margin-top: 10px;
         color: #211f1f;
     }
 
@@ -613,7 +629,8 @@ footer h2{
 
     .icon{
         color: #23d3d3;
-        height: 4vh;
+        height: 3vh;
+        width: 10vw;
     }
 
     .card p{
@@ -634,20 +651,20 @@ footer h2{
     }
 
     .divided{
-        height: 100vh;
+        height: 85vh;
         background-color: #E5EEF6;
         padding: 40px;
     }
 
     .divided img{
         width: 90vw;
-        height: 50vh;
+        height: 40vh;
         
     }
 
     .divided-card{
         width: 90vw;
-        height: 45vh;
+        height: 35vh;
         background-color: #00387a;
         border:solid 1px #00387a ;
         border-radius: 5px;
@@ -664,6 +681,17 @@ footer h2{
         color: #FAFEFE;
         font-weight: 500;
     }
+    
+    .divided-card img{
+        height: 4vh;
+        width: 120px;
+
+    }
+    .right{
+        display: block;
+        float: right;
+    }
+
 
     .divided h3{
         color: #FAFEFE;
@@ -695,7 +723,7 @@ footer h2{
 
 
     .about{
-        height: 90vh;
+        height: 55vh;
         background-color: #FAFEFE;
         padding: 20px;
         padding-top: 60px;
@@ -704,7 +732,7 @@ footer h2{
 
     .aboutcard{
         width: 30vw;
-        height: 30vh;
+        height: 20vh;
         background-color:#ECECEC;
         border: solid 1px #EADFFF;
         padding: 40px;
@@ -734,7 +762,7 @@ footer h2{
     }
 
     .products{
-        height: 50vh;
+        height: 30vh;
         background-color: #FAFEFE;
         padding-top: 40px;
         padding: 20px;
@@ -748,7 +776,7 @@ footer h2{
 
     .productcard{
         width: 28vw;
-        height: 30vh;
+        height: 20vh;
         background-color: #ECECEC;
         padding: 40px;
         color: #211f1f;
@@ -793,15 +821,15 @@ footer h2{
     }
 
     .client{
-        height: 75vh;
+        height: 50vh;
         background-color:#FAFEFE;
         padding: 20px;
         color: #211f1f;
     }
 
     .client img {
-        width: 55vw;
-        height: 60vh;
+        width: 50vw;
+        height: 40vh;
     }
 
     .client h1{
@@ -810,8 +838,8 @@ footer h2{
     }
 
     .clientcard{
-        width: 45vw;
-        height: 60vh;
+        width: 50vw;
+        height: 40vh;
         background-color:#00387a;
         padding: 40px;
         color: #FAFEFE;
@@ -830,7 +858,7 @@ footer h2{
     }
 
     .next{
-        height: 35vh;
+        height: 25vh;
         background-color: #FAFEFE;
         padding: 20px;
     }
@@ -862,7 +890,7 @@ footer h2{
         color: #FAFEFE;
         background-color: #00387a;
         width: 25vw;
-        height: 4vh;
+        height: 3vh;
     }
 
     .next a{
@@ -877,7 +905,7 @@ footer h2{
     }
     
     .blog{
-        height: 70vh;
+        height: 58vh;
         background-color: #E5EEF6;
         padding: 20px;
     }
@@ -895,7 +923,7 @@ footer h2{
 
     .blogcard{
         width: 45vw;
-        height: 45vh;
+        height: 40vh;
         background-color: #FAFEFE;
         padding: 40px;
         color: #211f1f;
@@ -923,7 +951,7 @@ footer h2{
     }
 
     .footer{
-        height: 50vh;
+        height: 35vh;
         background-color: #00387a;
         color: #FAFEFE;
         padding:40px ;
@@ -956,7 +984,7 @@ footer h2{
         display: flex;
         color: #FAFEFE;
         width: 100vw;
-        height: 10vh;
+        height: 5vh;
     }
 
     .bottom p{
@@ -1123,10 +1151,21 @@ footer h2{
         font-size: 1.5rem;
     }
 
+    .divided-card img{
+        height: 4vh;
+        width: 120px;
+
+    }
+
     .divided p{
         color: #FAFEFE;
         font-weight: 500;
         
+    }
+
+    .right{
+         display: block;
+         float: right;
     }
 
     .divided h3{
@@ -1372,7 +1411,7 @@ footer h2{
     }
 
     .footer{
-        height: 170vh;
+        height: 160vh;
         background-color: #00387a;
         color: #FAFEFE;
         padding:40px ;
@@ -1401,7 +1440,7 @@ footer h2{
         flex-direction: column;
         color: #FAFEFE;
         width: 100vw;
-        height: 20vh;
+        height: 15vh;
     }
 
     .bottom p{
