@@ -157,26 +157,25 @@ span{
 
 .container1{
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
     align-content: center;
     
 }
 
 .divided{
-    height: 150vh;
+    height: 100vh;
     background-color: #E5EEF6;
     padding: 40px;
 }
 
 .divided img{
     width: 90vw;
-    height: 50vh;
+    height: 80vh;
 }
 
 .divided-card{
     width: 90vw;
-    height: 70vh;
+    height: 80vh;
     background-color: #00387a;
     border: solid 1px #00387a;
     border-radius: 5px;
@@ -619,6 +618,7 @@ footer h2{
         border: solid 1px #EADFFF;
         padding: 40px;
         color: #211f1f;
+        
     }
 
     .card h1{
@@ -644,27 +644,25 @@ footer h2{
     }
     .container1{
         display: flex;
-        flex-direction: column;
-        justify-content: space-between;
+        justify-content: space-around;
 
-        
     }
 
     .divided{
-        height: 85vh;
+        height: 50vh;
         background-color: #E5EEF6;
         padding: 40px;
     }
 
     .divided img{
         width: 90vw;
-        height: 40vh;
+        height: 43vh;
         
     }
 
     .divided-card{
         width: 90vw;
-        height: 35vh;
+        height: 43vh;
         background-color: #00387a;
         border:solid 1px #00387a ;
         border-radius: 5px;
@@ -995,9 +993,6 @@ footer h2{
 
 
 
-    
-
-
 
 
 
@@ -1213,7 +1208,7 @@ footer h2{
         border-radius: 5px;
         padding: 20px;
         color: #211f1f;
-        animation: slider2 12s forwards 2s  linear;
+        animation: slider2 12s forwards 0.5s  linear;
 
     }
 
@@ -1259,7 +1254,7 @@ footer h2{
         color: #211f1f;
         border: solid 1px #EADFFF;
         border-radius: 5px;
-        animation: slider 18s forwards 2s  linear;
+        animation: slider 18s forwards 0.5s  linear;
 
     }
 
@@ -1359,7 +1354,7 @@ footer h2{
         padding: 20px;
         color: #211f1f;
         border: solid 1px #EADFFF;
-        animation: slider 30s forwards 2s  linear;
+        animation: slider 30s forwards 0.5s  linear;
 
     }
 
