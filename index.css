@@ -1411,7 +1411,7 @@ footer h2{
     }
 
     .footer{
-        height: 170vh;
+        height: 200vh;
         background-color: #00387a;
         color: #FAFEFE;
         padding:40px ;
@@ -1433,19 +1433,20 @@ footer h2{
         margin-top: 15px;
         border: none;
     }
-
-    .bottom{
+    .end{
         background-color: #1e266d;
-        display: flex;
-        flex-direction: column;
         color: #FAFEFE;
-        width: 100vw;
         height: 15vh;
     }
 
-    .bottom p{
+    .bottom{
+        display: flex;
+
+        justify-content: space-around;
+
+    }
+
+    .end p{
         opacity: 50%;
-        padding-top: 10px;
-        padding-left: 20px;
     }
 }
