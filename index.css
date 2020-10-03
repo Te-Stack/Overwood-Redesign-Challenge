@@ -613,7 +613,7 @@ footer h2{
 
     .card{
         width: 22vw;
-        height: 20vh;
+        height: 17vh;
         background-color: #F7F5F9;
         border: solid 1px #EADFFF;
         padding: 20px;
@@ -949,7 +949,7 @@ footer h2{
     }
 
     .footer{
-        height: 30vh;
+        height: 27vh;
         background-color: #00387a;
         color: #FAFEFE;
         padding:40px ;
@@ -959,7 +959,7 @@ footer h2{
 
     .footer input{
         width: 35vw;
-        height: 4vh;
+        height: 3vh;
         margin-top: 15px;
         padding: 10px;
     }
@@ -968,7 +968,7 @@ footer h2{
         color: #877d7d;
         background-color: #23d3d3;
         width: 120px;
-        height: 4vh;
+        height: 3vh;
         margin-top: 15px;
         border: none;
     }
@@ -1136,7 +1136,7 @@ footer h2{
 
     .divided-card{
         width: 90vw;
-        height: 90vh;
+        height: 95vh;
         background-color: #00387a;
         padding: 20px;
         padding-right: 30px;
