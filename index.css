@@ -1063,15 +1063,11 @@ footer h2{
         width:95vw;
         height:6vh;
       }
-    
 
 
+}
 
-
-
-
-
-
+@media screen and (max-width:800px) {
 
 }
 
