@@ -1074,6 +1074,22 @@ footer h2{
 
     }
 
+    .card-section {
+        height: 30vh;
+        width: 100%;
+        background-color: #FAFEFE;
+        padding: 20px;
+        
+    }
+
+    .card{
+        width: 23vw;
+        height: 19vh;
+        background-color: #F7F5F9;
+        border: solid 1px #EADFFF;
+        padding: 20px;
+        color: #211f1f; 
+    }
 }
 
 @media screen and (max-width:480px) {
