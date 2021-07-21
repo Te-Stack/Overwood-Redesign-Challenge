@@ -671,6 +671,7 @@ footer h2{
 
     .card-section {
         height: 30vh;
+        width: 100%;
         background-color: #FAFEFE;
         padding: 20px;
         
@@ -1090,6 +1091,20 @@ footer h2{
         padding: 20px;
         color: #211f1f; 
     }
+
+    .divided{
+        height: 50vh;
+        width: 100%;
+        background-color: #E5EEF6;
+        padding: 40px;
+    }
+
+    .divided img{
+        width: 50vw;
+        height: 40vh;
+        
+    }
+
 }
 
 @media screen and (max-width:480px) {
