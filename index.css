@@ -1080,6 +1080,7 @@ footer h2{
     *{
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
+        width: 100%;
     
     }
     #myBtn {
@@ -1104,6 +1105,7 @@ footer h2{
     
     .home{
         height:90vh;
+        width: 100%;
         background-color: #FAFEFE;
         display: block;        
     }
