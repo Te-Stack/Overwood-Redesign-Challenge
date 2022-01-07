@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/assets/favicon.png" type="image/png">
     <link rel="stylesheet" href="/assets/css/index.css">
+    <link rel="stylesheet" href="/assets/css/Nav.css">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="./assets/slick/slick.css" />
@@ -13,64 +15,91 @@
 </head>
 <body>
     
-    <section class="desktop-home">
-        <br>
-        <nav class="fixed-top">
-            <ul>
-                <h1><span class="span1">OVER</span><span class="span2">WOOD</span></h1>
-                <a href="#products">Our Product</a>
-                <a href="#next">FAQS</a>
-                <a href="#contacts">Contact</a>
-                <a href="#blog">Blogs</a>
-                <a href="#about">6 Things About Us</a>
-                <a href="#">Login</a>
-                <button class="but2">Create Account</button>
-            </ul>
-        </nav>
-        <br>
-        <br>
+    <div class="content-wrapper ">
+        <header class="container-fluid p-0">
+            <div class=' mobile-header d-lg-none d-xl-none'>
+                <div class="mobile-wrapper row ">
+                    <div class="mobile-logo col-6">
+                        <h1> <a href=" # "><span class="over ">OVER</span><span class="wood ">WOOD</span> </a></h1>
+                    </div>
+                    <div id="menu_toggle" class="col-6 d-flex justify-content-end pr-2">
+                        <button class="text-right">
+                            </button>
+                    </div>
+                </div>77
 
-        <div class="con">
+                <div class="mobile-nav">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li class="mobile-sub-menu"><span class="arrow"><i class="fa fa-plus"></i></span><a href="#">Our Products</a>
+                            <ul class="submenu">
+                                <li><a href="#">OVERWOOD PRIME</a></li>
+                                <li><a href="#">OVERWOOD DOLLAR</a></li>
+                                <li><a href="#">OVERWOOD CHILD</a></li>
+                            </ul>
+                        </li>
+                        <li><a href='#'>FAQs</a></li>
+                        <li><a href="#">6 Things About Us</a></li>
 
-            <div class="banner">
-                <p class="p1">Earn 8 - 15% per annum</p>
-                <h1>Safe,High- Yield <br> Investments</h1>
-                <p class="p2">We provide acess to safe,high-yield investments for <br> Africans(starting in Nigeria) with three  <br>products -  <br><span>
-                    OVERWOOD PRIME,OVERWOOD DOLLAR</span> & <span>OVERWOOD CHILD.</span></p>
-                    <button>INVEST NOW  </button>
+                        <li><a href="#" class="btn-login">LOGIN</a></li>
+                        <li> <a href="#" class="btn-register">CREATE ACCOUNT</a></li>
+
+                    </ul>
+                </div>
             </div>
+
+
+
+            <div class=" container-fluid header-wrapper d-none d-sm-none d-md-none d-lg-block d-xl-block">
+                <div class='row main-header'>
+                    <div class="main-logo col-lg-3 ">
+                        <h1> <a href=" # "><span class="over ">OVER</span><span class="wood ">WOOD</span> </a></h1>
+                    </div>
+                    <nav class="col-lg-9 ">
+                        <ul class="main-menu d-flex justify-content-end">
+
+                            <li class="main-menu-list-item product-list "><a href="# " class="product ">Our Products</a>
+                                <ul class="sub-menu ">
+                                    <li><a href="# ">OVERWOOD PRIME</a></li>
+                                    <li><a href="# ">OVERWOOD DOLLAR</a></li>
+                                    <li><a href="# ">OVERWOOD CHILD</a></li>
+                                </ul>
+                            </li>
+                            <li class="main-menu-list-item "><a href="# " class="underline-from-left ">FAQs</a></li>
+                            <li class="main-menu-list-item "><a href="# " class="underline-from-left ">Contacts</a></li>
+                            <li class="main-menu-list-item "><a href="# " class="underline-from-left ">Blog</a></li>
+                            <li class="main-menu-list-item "><a href="# " class="underline-from-left ">6 Things About us</a></li>
+                            <li class="main-menu-list-item "><a href="# " class="btn-login underline-from-left ">Login</a></li>
+                            <li class="main-menu-list-item "> <a href="# " class="btn-register underline-from-left  ">Create Account</a></li>
+                        </ul>
+                    </nav>
+
+                </div>
+            </div>
+
+        </header>
+
+    </section>
+    <section>
+        <div class="container container-cto">
+            <div class="row">
+                <div class="cto-text col-lg-6 col-sm-12 ">
+
+                    <h1>Safe, High-Yield Investments</h1>
+                        <p>We provide access to safe, high-yield Investments for Africans (starting in Nigeria) with three products - </p>
+
+                        <p class="p-links "><a href="# "> OVERWOOD PRIME </a>,<br /> <a href="# ">OVERWOOD DOLLAR </a> & <br /> <a href="# ">OVERWOOD CHILD.</a></p>
+                        <h5>Earn 8 - 15% per annum</h5>
+                        <button class="btn-invest ">INVEST NOW</button>
+                </div>
+                <div class="cto-img col-lg-6 d-none d-sm-none d-md-none d-lg-block d-xl-block">
+                    <img src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1601727064/Fine_Boy_wt5sel.png " alt="A man on Suit">
+                </div>
+            </div>
+        </div>
+    </section>
+
     
-            <div>
-                <img src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1601727064/Fine_Boy_wt5sel.png" alt="">
-            </div>
-        </div>
-        <button id="myBtn">Go to Top</button>
-
-    </section>
-
-
-    <section class="home">
-        <nav class="fixed-top">
-            <h1 class="home-h1"> <span class="span1">OVER</span><span class="span2">WOOD</span></h1>
-            <div class="mobile-icon">&#9776</div>
-
-        </nav>
-
-        <div class="banner">
-        <h1>Safe,High- Yield <br> Investments</h1>
-        <p class="p2">We provide acess to safe,high-yield <br>investments for <br> Africans(starting in Nigeria) with three  <br>products -  <br><span>
-            OVERWOOD PRIME, <br> OVERWOOD DOLLAR</span> & <span> <br> OVERWOOD CHILD.</span></p>
-            <br>
-            <br>
-            <p class="p1">Earn 8 - 15% per annum</p>
-            <br>
-
-            <button>INVEST NOW  </button>
-
-        </div>
-        <button id="myBtn">Go to Top</button>
-
-    </section>
 
     <section class="card-section container">
         <div id="left" class="card">
