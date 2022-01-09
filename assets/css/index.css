@@ -1507,23 +1507,3 @@ footer h2{
     }
 }
 
-@keyframes slider{
-    0%{
-        transform: translateX(-500px);
-    }
-
-    100%{
-        transform: translateX(0);
-    }
-    
-}
-
-@keyframes slider2{
-    0%{
-        transform: translateX(500px);
-    }
-
-    100%{
-        transform: translateX(0);
-    }
-}
