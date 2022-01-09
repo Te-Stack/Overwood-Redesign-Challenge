@@ -4,6 +4,10 @@ a:hover {
     text-decoration: none;
 }
 
+.mobile-logo a{
+    text-decoration: none;
+}
+
 .wood{
     font-family: 'Raleway', sans-serif;
     
