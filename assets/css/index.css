@@ -12,6 +12,12 @@ html{
     scroll-behavior: smooth;
 }
 
+.container-cto{
+    padding: 5rem 0 1rem 0;
+    
+}
+
+
 
 .p1{
     color: #1e266d;
@@ -228,7 +234,7 @@ span{
     border: none;
     outline: none;
     background-color:#00387a;
-    color: #132835;
+    color: #F7F5F9;
     cursor: pointer;
     padding: 10px;
     border-radius:5px;
@@ -236,6 +242,7 @@ span{
   
   #myBtn:hover {
     background-color: #ffffff;
+    color: #211f1f;
   }
 
 
