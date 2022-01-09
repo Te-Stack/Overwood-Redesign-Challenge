@@ -1,7 +1,5 @@
 const toggleButton = document.querySelector('#menu_toggle');
-
 const mobileNav = document.querySelector('.mobile-nav');
-
 const productSubMenu = document.querySelector('.mobile-sub-menu');
 const arrow = document.querySelector('.arrow'); 
 
