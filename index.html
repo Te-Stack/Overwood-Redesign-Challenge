@@ -102,7 +102,7 @@
 
     
 
-    <section class="card-section container">
+    <section class="card-section containe">
         <div id="left" class="card">
             <img class="icon" src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1601633813/undraw_safe_bnk7_jlr8vg.svg">
             <h1>Safety First </h1>
@@ -265,53 +265,7 @@
         
     </section>
 
-    <!-- <section class="blog" id="blog">
-        <p>OUR BLOG</p>
-        <h1>News from our blog</h1>
-        <br>
-        <a href="www.google.com">View all posts</a>
-        <br>
-        <br>
-        <br>
-        <div class="container7">
-            <div class="blogcard">
-                <img src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1600345640/Frustrated_oaqxo0.jpg" alt="frustrated young Woman">
-                <br>
-                <br>
-                <p>Mar 16,2020 |<span class="span2">Financial Independence </span></p>
-                <h2>Limiting Money Psychology</h2>
-                <br>
-                <p>We are all guilty of immortalizing lies about the state of our finance.When it comes to managing money,most of us aren't as rational and logical as we think .</p>
-                <br>
-                <a href="www.google.com">Read more</a>
     
-            </div>
-            <div class="blogcard desktopcard">
-                <img src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1600345712/Money_Grows_r0trhp.jpg" alt="frustrated young Woman">
-                <br>
-                <br>
-                <p>Mar 16,2020 |<span class="span2">Financial Independence </span></p>
-                <h2>Money Management Tips(Saving & Investing)</h2>
-                <br>
-                <p>In continuation of our previous post on money management developing those two habits can greatly improve</p>
-                <br>
-                <a href="www.google.com">Read more</a>
-            </div>
-            <div class="blogcard desktopcard desktopcard1">
-                <img src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1600345614/Beautiful_Child_ywnklp.jpg" alt="Child">
-                <br>
-                <br>
-                <p>Mar 16,2020 |<span class="span2">Financial Independence </span></p>
-                <h2>How to Teach Children About Money</h2>
-                <br>
-                <p>Managing your finance is still a struggle for some adults.That is why it is important to teach children about money and it's value</p>
-                <br>
-                <a href="www.google.com">Read more</a>
-            </div>
-
-        </div>
-        
-    </section> -->
     <section class="blog ">
         <div class="container blog-container ">
             <h5>OUR BLOG</h5>
@@ -493,6 +447,31 @@
     <script src="https://kit.fontawesome.com/cce40f41e2.js" crossorigin="anonymous"></script>
     <script type="text/javascript " src="//code.jquery.com/jquery-1.11.0.min.js "></script>
     <script type="text/javascript " src="//code.jquery.com/jquery-migrate-1.2.1.min.js "></script>
+    <script type="text/javascript ">
+        $(document).ready(function() {
+            $('.blog-cards.row').slick({
+                dots: true,
+                infinite: true,
+                speed: 300,
+                slidesToShow: 3,
+                adaptiveHeight: true,
+                arrows: false,
+                responsive: [{
+                    breakpoint: 992,
+                    settings: {
+                        arrows: false,
+                        slidesToShow: 2
+                    }
+                }, {
+                    breakpoint: 768,
+                    settings: {
+                        arrows: false,
+                        slidesToShow: 1
+                    }
+                }]
+            });
+        });
+    </script>
     <script type="text/javascript " src="./slick/slick.js "></script>
 </body>
 </html>
