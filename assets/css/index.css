@@ -1176,15 +1176,13 @@ footer h2{
     }
 
     .divided{
+        margin-top: 55rem;
         padding: 70px 0 70px 0;
         background-color: #E5EEF6;
         padding: 20px ;
     }
 
-    .divided img{
-        width: 90vw;
       
-    }
 
     .divided-card{
         width: 90vw;
