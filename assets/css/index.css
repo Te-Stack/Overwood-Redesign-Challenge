@@ -133,7 +133,7 @@ span{
     
 }
 
-.divided{
+/* .divided{
     height: 100vh;
     background-color: #E5EEF6;
     padding: 40px;
@@ -184,7 +184,7 @@ span{
 
 .up{
     opacity: 50%;
-}
+} */
 
 .container2{
     display: flex;
@@ -705,7 +705,7 @@ footer h2{
 
     }
 
-    .divided{
+    /* .divided{
         height: 50vh;
         background-color: #E5EEF6;
         padding: 40px;
@@ -755,7 +755,7 @@ footer h2{
 
     .up{
         opacity: 50%;
-    }
+    } */
 
     .container2{
         display: flex;
@@ -1079,7 +1079,7 @@ footer h2{
         color: #211f1f; 
     }
 
-    .divided{
+    /* .divided{
         height: 50vh;
         width: 100%;
         background-color: #E5EEF6;
@@ -1090,7 +1090,7 @@ footer h2{
         width: 50vw;
         height: 40vh;
         
-    }
+    } */
 
 }
 
