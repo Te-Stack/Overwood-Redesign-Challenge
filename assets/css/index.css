@@ -273,10 +273,10 @@ span{
 }
 
 .productcard{
-    
+    width: 400px;
     background-color: #ECECEC;
     border: solid 1px #EADFFF;
-    padding: 20px;
+    padding: 20px 20px 20px 20px;
     color: #211f1f;
 }
 
@@ -812,6 +812,7 @@ footer h2{
     }
 
     .productcard{
+        width: 300px;
         background-color: #ECECEC;
         padding: 20px 50px 10px 10px;
         color: #211f1f;
@@ -1272,6 +1273,7 @@ footer h2{
     }
 
     .productcard{
+        width: 340px;
         min-height: 190px;
         background-color: #ECECEC;
         padding: 20px 20px 20px 20px;
