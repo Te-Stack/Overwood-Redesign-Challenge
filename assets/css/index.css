@@ -133,6 +133,54 @@ span{
     
 }
 
+.divided{
+    padding: 70px 0 70px 0;
+    background-color: #E5EEF6;
+    padding: 20px ;
+}
+
+  
+
+.divided-card{
+    width: 40vw;
+    background-color: #00387a;
+    padding: 20px;
+    padding-right: 30px;
+}
+
+.divided h4{
+    color: #FAFEFE;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.divided-card img{
+    height: 4vh;
+    width: 140px;
+
+}
+
+.divided p{
+    color: #FAFEFE;
+    font-weight: 500;
+    
+}
+
+.right{
+     display: block;
+     float: right;
+}
+
+.divided h3{
+    color: #FAFEFE;
+    font-weight: bolder;
+    justify-self: flex-end;
+}
+
+.up{
+    opacity: 50%;
+}
+
 /* .divided{
     height: 100vh;
     background-color: #E5EEF6;
@@ -705,6 +753,54 @@ footer h2{
 
     }
 
+    .divided{
+        padding: 70px 0 70px 0;
+        background-color: #E5EEF6;
+        padding: 20px ;
+    }
+
+      
+
+    .divided-card{
+        width: 90vw;
+        background-color: #00387a;
+        padding: 20px;
+        padding-right: 30px;
+    }
+
+    .divided h4{
+        color: #FAFEFE;
+        font-weight: bolder;
+        font-size: 1.5rem;
+    }
+
+    .divided-card img{
+        height: 4vh;
+        width: 120px;
+
+    }
+
+    .divided p{
+        color: #FAFEFE;
+        font-weight: 500;
+        
+    }
+
+    .right{
+         display: block;
+         float: right;
+    }
+
+    .divided h3{
+        color: #FAFEFE;
+        font-weight: bolder;
+        justify-self: flex-end;
+    }
+
+    .up{
+        opacity: 50%;
+    }
+
     /* .divided{
         height: 50vh;
         background-color: #E5EEF6;
@@ -1176,7 +1272,7 @@ footer h2{
     }
 
     .divided{
-        margin-top: 25rem;
+        margin-top: 55rem;
         padding: 70px 0 70px 0;
         background-color: #E5EEF6;
         padding: 20px ;
