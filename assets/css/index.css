@@ -812,9 +812,8 @@ footer h2{
     }
 
     .productcard{
-        
         background-color: #ECECEC;
-        padding: 40px;
+        padding: 20px 50px 10px 10px;
         color: #211f1f;
         border: solid 1px #EADFFF;
     }
