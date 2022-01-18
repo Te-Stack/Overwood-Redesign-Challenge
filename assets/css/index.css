@@ -704,7 +704,8 @@ footer .social-icons a {
       
       #myBtn:hover {
         background-color: rgb(100, 255, 218);
-        color: #132835;
+        color: #F7F5F9;
+
         
       }
     
@@ -1034,53 +1035,7 @@ footer .social-icons a {
     }
     
     
-    /* .footer{
-        height: 27vh;
-        background-color: #00387a;
-        color: #FAFEFE;
-        padding:40px ;
-        
-        
-    }
-
-    .footer input{
-        width: 35vw;
-        height: 3vh;
-        margin-top: 15px;
-        padding: 10px;
-    }
-
-    .footerbutton{
-        color: #877d7d;
-        background-color: #23d3d3;
-        width: 120px;
-        height: 3vh;
-        margin-top: 15px;
-        border: none;
-    }
-
-    footer h2{
-        font-size: 1rem;
-    }
-
-    .bottom{
-        background-color: #1e266d;
-        display: flex;
-        color: #FAFEFE;
-        width: 100vw;
-        height: 5vh;
-    }
-
-    .bottom p{
-        opacity: 50%;
-        padding-top: 10px;
-        padding-left: 20px;
-    }
-
-    .usual{
-        width:95vw;
-        height:6vh;
-      } */
+    
 
 
 }
