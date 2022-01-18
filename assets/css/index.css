@@ -126,14 +126,12 @@ span{
 
 }
 
-.container1{
+
+
+.divided{
     display: flex;
     justify-content: space-around;
     align-content: center;
-    
-}
-
-.divided{
     padding: 70px 0 70px 0;
     background-color: #E5EEF6;
     padding: 20px ;
@@ -695,13 +693,9 @@ footer h2{
         color: #877d7d;
 
     }
-    .container1{
-        display: flex;
-        justify-content: space-around;
-
-    }
-
+    
     .divided{
+        display: flex;
         padding: 70px 0 70px 0;
         background-color: #E5EEF6;
         padding: 20px ;
@@ -710,7 +704,7 @@ footer h2{
       
 
     .divided-card{
-        width: 90vw;
+        width: 50vw;
         background-color: #00387a;
         padding: 20px;
         padding-right: 30px;
