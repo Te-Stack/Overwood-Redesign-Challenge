@@ -261,7 +261,7 @@ span{
 }
 
 .products{
-    height: 50vh;
+    
     background-color: #FAFEFE;
     padding: 20px;
 }
@@ -273,8 +273,7 @@ span{
 }
 
 .productcard{
-    width: 30vw;
-    height: 32vh;
+    
     background-color: #ECECEC;
     border: solid 1px #EADFFF;
     padding: 20px;
@@ -801,7 +800,6 @@ footer h2{
     }
 
     .products{
-        height: 30vh;
         background-color: #FAFEFE;
         padding-top: 40px;
         padding: 20px;
@@ -814,8 +812,7 @@ footer h2{
     }
 
     .productcard{
-        width: 28vw;
-        height: 20vh;
+        
         background-color: #ECECEC;
         padding: 40px;
         color: #211f1f;
@@ -1276,14 +1273,13 @@ footer h2{
     }
 
     .productcard{
-        width: 90vw;
-        height: 30vh;
+        min-height: 190px;
         background-color: #ECECEC;
-        padding: 20px;
+        padding: 20px 20px 20px 20px;
         color: #211f1f;
         border: solid 1px #EADFFF;
         border-radius: 5px;
-        animation: slider 18s forwards 0.5s  linear;
+        
 
     }
 
