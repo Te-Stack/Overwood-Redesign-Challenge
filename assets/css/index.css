@@ -940,52 +940,7 @@ footer h2{
         justify-content: space-between;
     }
     
-    .blog{
-        height: 58vh;
-        background-color: #E5EEF6;
-        padding: 20px;
-    }
-
-    .blog h1{
-        font-weight: bolder;
-        font-size: 3rem;
-    }
-
-    .blog a{
-        color:#23d3d3;
-        font-weight: bolder;
-        text-decoration: none;
-    }
-
-    .blogcard{
-        width: 45vw;
-        height: 40vh;
-        background-color: #FAFEFE;
-        padding: 40px;
-        color: #211f1f;
-        
-    }
-
-    .blogcard img{
-        height: 20vh;
-        margin-top: -40px;
-        width: 45vw;
-        margin-left: -40px;
-    }
-    .container8{
-        display: flex;
-        flex-wrap: nowrap;
-    }
-    .part3{
-        flex: 1;
-        align-items: flex-end;
-    }
-    .part4{
-        justify-content: flex-end;
-        flex: 1;
-        
-    }
-
+    
     .footer{
         height: 27vh;
         background-color: #00387a;
