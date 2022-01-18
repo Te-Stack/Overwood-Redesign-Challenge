@@ -704,7 +704,7 @@ footer h2{
       
 
     .divided-card{
-        width: 50vw;
+        width: 80vw;
         background-color: #00387a;
         padding: 20px;
         padding-right: 30px;
@@ -758,7 +758,7 @@ footer h2{
 
     .icons{
         color: #23d3d3;
-        font-size: large;
+        font-size: 2rem;
     }
 
 
