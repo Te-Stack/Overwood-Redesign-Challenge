@@ -181,58 +181,6 @@ span{
     opacity: 50%;
 }
 
-/* .divided{
-    height: 100vh;
-    background-color: #E5EEF6;
-    padding: 40px;
-}
-
-.divided img{
-    width: 90vw;
-    height: 80vh;
-}
-
-.divided-card{
-    width: 90vw;
-    height: 80vh;
-    background-color: #00387a;
-    border: solid 1px #00387a;
-    border-radius: 5px;
-    padding: 2rem;
-}
-
-
-.divided-card img{
-    height: 4vh;
-    width: 120px;
-
-}
-
-.right{
-    display: block;
-    float: right;
-}
-
-.divided h4{
-    color: #FAFEFE;
-    font-weight: bolder;
-    font-size: 3rem;
-}
-
-.divided p{
-    color: #FAFEFE;
-    font-weight: 500;
-    
-}
-
-.divided h3{
-    color: #FAFEFE;
-    font-weight: bolder;
-}
-
-.up{
-    opacity: 50%;
-} */
 
 .container2{
     display: flex;
@@ -1338,19 +1286,17 @@ footer h2{
     
     .icons{
         color: #23d3d3;
-        font-size: large;
+        font-size: 2rem;
        
     }
 
     .aboutcard{
         width: 90vw;
-        height: 100%;
         background-color: #ECECEC;
         border: 1px solid #EADFFF;
         border-radius: 5px;
-        padding: 20px;
+        padding: 20px 20px 20px 20px;
         color: #211f1f;
-        
 
     }
 
