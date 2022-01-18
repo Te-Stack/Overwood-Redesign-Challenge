@@ -1065,18 +1065,14 @@ footer .social-icons a {
         color: #211f1f; 
     }
 
-    /* .divided{
-        height: 50vh;
-        width: 100%;
-        background-color: #E5EEF6;
-        padding: 40px;
+    .divided-card{
+       
+        background-color: #00387a;
+        padding: 20px;
+        padding-right: 30px;
     }
 
-    .divided img{
-        width: 50vw;
-        height: 40vh;
-        
-    } */
+    
 
 }
 
