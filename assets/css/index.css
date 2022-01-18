@@ -202,14 +202,14 @@ span{
 }
 
 .about{
-    height: 110vh;
+    
     background-color: #FAFEFE;
     padding: 20px;
 }
 
 .aboutcard{
     width: 30vw;
-    height: 35vh;
+    
     background-color: #ECECEC;
     border: solid 1px #EADFFF;
     padding: 20px;
@@ -820,7 +820,6 @@ footer h2{
 
 
     .about{
-        height: 55vh;
         background-color: #FAFEFE;
         padding: 20px;
         padding-top: 60px;
@@ -829,7 +828,7 @@ footer h2{
 
     .aboutcard{
         width: 30vw;
-        height: 20vh;
+       
         background-color:#ECECEC;
         border: solid 1px #EADFFF;
         padding: 40px;
