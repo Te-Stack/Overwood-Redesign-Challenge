@@ -309,7 +309,7 @@ span{
 
 
 .client{
-    height: 120vh;
+    
     background-color: #FAFEFE;
     padding: 40px;
     padding-left: 80px;
@@ -330,7 +330,6 @@ span{
 
 .clientcard{
     width: 50vw;
-    height: 80vh;
     background-color: #00387a;
     border: solid 1px #00387a;
     padding: 40px;
@@ -857,7 +856,7 @@ footer h2{
     }
 
     .client{
-        height: 50vh;
+       
         background-color:#FAFEFE;
         padding: 20px;
         color: #211f1f;
@@ -865,7 +864,7 @@ footer h2{
 
     .client img {
         width: 50vw;
-        height: 40vh;
+        height: 100%;
     }
 
     .client h1{
@@ -875,7 +874,6 @@ footer h2{
 
     .clientcard{
         width: 50vw;
-        height: 40vh;
         background-color:#00387a;
         padding: 40px;
         color: #FAFEFE;
@@ -1274,7 +1272,7 @@ footer h2{
 
     .productcard{
         width: 340px;
-        min-height: 190px;
+        min-height: 180px;
         background-color: #ECECEC;
         padding: 20px 20px 20px 20px;
         color: #211f1f;
@@ -1323,7 +1321,7 @@ footer h2{
     }
 
     .client img{
-        height: 60vh;
+        height: 100%;
         width: 85vw;
     }
 
@@ -1344,7 +1342,6 @@ footer h2{
 
     .clientcard{
         width: 85vw;
-        height: 50vh;
         background-color: #00387a;
         padding: 20px;
         color: #FAFEFE;
