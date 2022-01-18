@@ -388,6 +388,9 @@ span{
     color: #FAFEFE;
     background-color: #00387a;
     width: 150px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
 }
 
 .next a{
