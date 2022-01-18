@@ -195,7 +195,7 @@ span{
 
 .icons{
     color: #23d3d3;
-    font-size: large;
+    font-size: 2rem;
    
 }
 
@@ -743,58 +743,7 @@ footer h2{
         opacity: 50%;
     }
 
-    /* .divided{
-        height: 50vh;
-        background-color: #E5EEF6;
-        padding: 40px;
-    }
-
-    .divided img{
-        width: 90vw;
-        height: 40vh;
-        
-    }
-
-    .divided-card{
-        width: 90vw;
-        height: 40vh;
-        background-color: #00387a;
-        border:solid 1px #00387a ;
-        border-radius: 5px;
-        padding:20px;
-    }
-
-    .divided h4{
-        color: #FAFEFE;
-        font-weight: bolder;
-        font-size: 3rem;
-    }
-
-    .divided p{
-        color: #FAFEFE;
-        font-weight: 500;
-    }
     
-    .divided-card img{
-        height: 4vh;
-        width: 120px;
-
-    }
-    .right{
-        display: block;
-        float: right;
-    }
-
-
-    .divided h3{
-        color: #FAFEFE;
-        font-weight: bolder;
-    }
-
-    .up{
-        opacity: 50%;
-    } */
-
     .container2{
         display: flex;
         justify-content: space-evenly;
