@@ -602,15 +602,17 @@ footer h2{
         font-size: 15px;
         border: none;
         outline: none;
-        background-color: rgb(100, 255, 218);
-        color: #132835;
+        background-color:#00387a;
+        color: #F7F5F9;
         cursor: pointer;
         padding: 10px;
         border-radius:5px;
       }
       
       #myBtn:hover {
-        background-color: #ffffff;
+        background-color: rgb(100, 255, 218);
+        color: #132835;
+        
       }
     
     
@@ -1102,8 +1104,8 @@ footer h2{
       }
       
       #myBtn:hover {
-        background-color: #ffffff;
-        color: #211f1f;
+        background-color: rgb(100, 255, 218);
+        color: #132835;
       }
     
     
