@@ -332,9 +332,9 @@ span{
     width: 50vw;
     background-color: #00387a;
     border: solid 1px #00387a;
-    padding: 40px;
+    padding: 40px 70px 10px 70px;
     color: #FAFEFE;
-    font-size: 2rem;
+    font-size: 1.7rem;
     
 }
 
@@ -875,10 +875,10 @@ footer h2{
     .clientcard{
         width: 50vw;
         background-color:#00387a;
-        padding: 40px;
+        padding: 40px 70px 10px 70px;
         color: #FAFEFE;
         border: solid 1px #00387a;
-        font-size: 2rem;
+        font-size: 1.7rem;
         
     }
 
