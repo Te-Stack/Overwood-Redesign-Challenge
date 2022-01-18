@@ -652,54 +652,6 @@ footer .social-icons a {
 }
 
 
-/* .footer{
-    height: 70vh;
-    background-color: #00387a;
-    color: #FAFEFE;
-    padding:20px ;
-    
-    
-}
-
-.footer input{
-    width: 30vw;
-    height: 7vh;
-    margin-top: 15px;
-    padding: 10px;
-}
-
-.footerbutton{
-    color: #877d7d;
-    background-color: #23d3d3;
-    width: 15vw;
-    height: 7vh;
-    margin-top: 10px;
-    border: none;
-}
-
-footer h2{
-    font-size: 1.5rem;
-}
-
-.bottom{
-    background-color: #1e266d;
-    display: flex;
-    justify-content: space-evenly;
-    color: #FAFEFE;
-    
-    height: 10vh;
-}
-
-.bottom p{
-    opacity: 50%;
-    padding-top: 10px;
-    padding-left: 20px;
-}
-.usual{
-    width:95vw;
-    height:8vh;
-  }
- */
 
 @media screen and (max-width:1024px) {
 
