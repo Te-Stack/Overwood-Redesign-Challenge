@@ -388,8 +388,6 @@ span{
     color: #FAFEFE;
     background-color: #00387a;
     width: 150px;
-    
-    border: none;
 }
 
 .next a{
@@ -891,14 +889,14 @@ footer h2{
     }
 
     .next{
-        height: 25vh;
+       
         background-color: #FAFEFE;
         padding: 20px;
     }
 
     .nextcard{
         width: 85vw;
-        height: 8vh;
+       min-height: 100px;
         background-color: #F7F5F9;
         padding: 20px;
         color: #211f1f;
@@ -923,7 +921,7 @@ footer h2{
         color: #FAFEFE;
         background-color: #00387a;
         width: 25vw;
-        height: 3vh;
+        height: 40px;
     }
 
     .next a{
