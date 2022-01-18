@@ -349,7 +349,7 @@ span{
 }
 
 .next{
-    height: 70vh;
+    padding: 20px 20px 20px 20px;
     background-color: #FAFEFE;
     padding: 20px;
     color: #00387a;
@@ -359,7 +359,6 @@ span{
 
 .nextcard{
     width: 90vw;
-    height: 25vh;
     background-color: #F7F5F9;
     padding: 20px;
     color: #211f1f;
@@ -368,7 +367,7 @@ span{
 }
 
 .str{
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .nextcard h5{
@@ -389,7 +388,7 @@ span{
     color: #FAFEFE;
     background-color: #00387a;
     width: 150px;
-    height: 6vh;
+    
     border: none;
 }
 
@@ -1370,13 +1369,11 @@ footer h2{
 
     .nextcard{
         width: 85vw;
-        height: 25vh;
+       min-height: 200px;
         background-color: #F7F5F9;
         padding: 20px;
         color: #211f1f;
         border: solid 1px #EADFFF;
-        animation: slider 30s forwards 0.5s  linear;
-
     }
 
     .nextcard h5{
@@ -1391,8 +1388,10 @@ footer h2{
     .next button{
         color: #FAFEFE;
         background-color: #00387a;
-        width: 35vw;
-        height: 5vh;
+        width: 100px;
+        height: 35px  ;
+
+        
     }
 
     
