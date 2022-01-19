@@ -1181,14 +1181,19 @@ footer .social-icons a {
         flex-direction: column;
         margin-top: 55rem;
         justify-content: space-around;
-        padding: 70px 0 70px 0;
+        padding: 70px 10px 70px 10px;
         background-color: #E5EEF6;
+    }
+
+    .fine{
+        width: 95vw;
     }
 
       
 
     .divided-card{
-        width: 99vw;
+        display: block;
+        width: 95vw;
         background-color: #00387a;
         padding: 20px;
         padding-right: 30px;
@@ -1213,8 +1218,10 @@ footer .social-icons a {
     }
 
     .right{
-         display: block;
-         float: right;
+        display: block;
+        float: right;
+         
+         
     }
 
     .divided h3{
