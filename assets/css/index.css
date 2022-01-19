@@ -1180,7 +1180,6 @@ footer .social-icons a {
         display: flex;
         flex-direction: column;
         margin-top: 50rem;
-        justify-content: space-around;
         padding: 70px 10px 70px 10px;
         background-color: #E5EEF6;
     }
