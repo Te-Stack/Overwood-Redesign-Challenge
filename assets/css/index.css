@@ -647,9 +647,7 @@ footer .social-icons a {
         padding: 7rem 0 1rem 0;
         
     }
-    
 
-    
     .home-h1{
         font-size: 1.5rem;
         color:#FAFEFE ;
@@ -661,6 +659,7 @@ footer .social-icons a {
         
         margin-top: -20px;
     }
+
     #myBtn {
         display: none;
         position: fixed;
@@ -1397,37 +1396,6 @@ footer .social-icons a {
         
     }
 
-    
-
-    
-    /* .container8{
-        display: flex;
-        flex-direction: column;
-    }
-
-    .footer{
-        height: 200vh;
-        background-color: #00387a;
-        color: #FAFEFE;
-        padding:40px ;
-        
-    }
-
-    .footer input{
-        width: 75vw;
-        height: 7vh;
-        margin-top: 15px;
-        padding: 10px;
-    }
-
-    .footerbutton{
-        color: #877d7d;
-        background-color: #23d3d3;
-        width: 40vw;
-        height: 7vh;
-        margin-top: 15px;
-        border: none;
-    } */
     .end{
         background-color: #1e266d;
         color: #FAFEFE;
