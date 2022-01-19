@@ -798,6 +798,8 @@ footer .social-icons a {
         padding: 20px ;
     }
 
+
+    
       
 
     .divided-card{
@@ -1074,7 +1076,13 @@ footer .social-icons a {
         color: #211f1f; 
     }
 
+    .fine{
+        width: 50vw;
+        
+    }
+
     .divided-card{
+        width: 50vw;
        
         background-color: #00387a;
         padding: 20px;
