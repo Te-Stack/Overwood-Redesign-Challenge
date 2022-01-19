@@ -51,9 +51,8 @@ html{
     
     background-color: #FAFEFE;
     padding: 20px;
-    
-    
 }
+
 .containe{
     display: flex;
     justify-content: space-between;
