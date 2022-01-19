@@ -15,7 +15,7 @@ html{
 }
 
 .container-cto{
-    padding: 5rem 0 1rem 0;
+    padding: 3rem 0 1rem 0;
     
 }
 
@@ -666,13 +666,14 @@ footer .social-icons a {
     .desktop-home{
         display: none;
     }
-    nav{
-        background-color: #FAFEFE;
-        height: 2.7rem;
-        padding: 0.5rem;
+
+    .container-cto{
+        padding: 7rem 0 1rem 0;
         
     }
+    
 
+    
     .home-h1{
         font-size: 1.5rem;
         color:#FAFEFE ;
@@ -757,6 +758,7 @@ footer .social-icons a {
 
     .card{
         width:18vw;
+        min-height: 200px;
         background-color: #F7F5F9;
         border: solid 1px #EADFFF;
         padding: 20px;
@@ -1046,6 +1048,12 @@ footer .social-icons a {
 
     }
 
+    .container-cto{
+        padding: 0 0 1rem 0;
+        
+    }
+
+
     .card-section {
         height: 30vh;
         width: 100%;
@@ -1105,7 +1113,11 @@ footer .social-icons a {
         color: #F7F5F9;
         
       }
-    
+
+      .container-cto{
+        padding: 1rem 0 1rem 0;
+        
+    }
     
     
     
@@ -1120,7 +1132,7 @@ footer .social-icons a {
     }
 
     .card{
-        width: 370px;
+        width: 340px;
         min-height: 200px;
         background-color: #F7F5F9;
         border: 1px solid #EADFFF;
