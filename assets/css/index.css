@@ -19,6 +19,17 @@ html{
     
 }
 
+.btn-invest{
+    background: #1E266D;
+    color: #F7F5F9;
+    height: 4rem;
+    width: 9rem;
+    border: none;
+    cursor: pointer;
+    
+}
+
+
 .container-cto h1{
     color: #00387a;
     font-weight: bolder;
@@ -26,18 +37,7 @@ html{
 
 
 
-.p1{
-    color: #1e266d;
-    font-weight: bolder;
-}
 
-
-.banner h1{
-    color: #1e266d;
-    font-weight: bolder;
-    padding-top: 1rem;
-    font-size: 2rem;
-}
 
 
 
