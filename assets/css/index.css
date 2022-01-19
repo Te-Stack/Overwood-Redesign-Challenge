@@ -46,33 +46,6 @@ html{
 
 
 
-
-.p2{
-    color: #211f1f;
-
-}
-
-.banner button{
-    margin-top: 20px;
-    width: 10vw;
-    height: 7vh;
-    color: #FAFEFE;
-    background-color: #00387a;
-    border: none;
-    font-weight: bold;
-}
-
-
-.but2{
-    width: 150px;
-    height: 5vh;
-    color: #00387a;
-    background-color: #FAFEFE;
-    border: solid 1px #23d3d3 ;
-    border-radius: 5px;
-    font-weight: bolder;
-}
-
 .con{
     display: flex;
     justify-content: space-evenly;
