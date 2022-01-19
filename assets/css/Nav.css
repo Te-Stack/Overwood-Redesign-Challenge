@@ -31,10 +31,10 @@ a:hover {
 
 .mobile-wrapper {
     padding: 22px 15px;
-    background: #1E266D;
+    background: #fff;
 }
 
-.mobile-logo h1 a {
+.mobile-logo h1 a{
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -68,7 +68,7 @@ a:hover {
     top: 100%;
     cursor: pointer;
     margin: -2px 0 0;
-    background: #F8EFEF;
+    background: #141414;
     height: 4px;
     padding: 0;
     border: none;
@@ -90,7 +90,7 @@ a:hover {
     top: -8px;
     width: 26px;
     height: 4px;
-    background: #F8EFEF;
+    background: #141414;
     -webkit-transform-origin: 1.5px center;
     transform-origin: 1.5px center;
     transition: all 0.3s ease;
@@ -108,7 +108,7 @@ a:hover {
     bottom: -8px;
     width: 26px;
     cursor: pointer;
-    background: #F8EFEF;
+    background: #141414;
     height: 4px;
     -webkit-transform-origin: 1.5px center;
     transform-origin: 1.5px center;
