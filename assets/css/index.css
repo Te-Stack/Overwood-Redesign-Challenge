@@ -1107,12 +1107,11 @@ footer .social-icons a {
     .containe{
         display: flex;
         flex-direction: column;
-    }
-
-    .card-section {
         background-color: #FAFEFE;
         padding: 20px;
     }
+
+    
 
     .card{
         width: 320px;
