@@ -1054,10 +1054,6 @@ footer .social-icons a {
         font-size: 3rem;
     }
 
-    .products{
-        background-color: #FAFEFE;
-        padding: 20px;
-    }
 
     .container4{
         display: flex;
@@ -1068,16 +1064,12 @@ footer .social-icons a {
         font-weight: bolder;
         padding-left: 20px;
         font-size: 1.5rem;
-        color: #00387a;
     }
 
     .productcard{
         width: 320px;
         min-height: 180px;
-        background-color: #ECECEC;
         padding: 20px 20px 20px 20px;
-        color: #211f1f;
-        border: solid 1px #EADFFF;
         border-radius: 5px;
         
 
@@ -1096,7 +1088,6 @@ footer .social-icons a {
     }
 
     .client{
-        background-color: #FAFEFE;
         padding: 20px;
         color: #211f1f;
     }
