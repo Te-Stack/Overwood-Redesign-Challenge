@@ -1015,12 +1015,6 @@ footer .social-icons a {
         flex-direction: column;
     }
 
-    .about{
-        background-color: #FAFEFE;
-        padding: 20px;
-        
-    }
-
     
     .icons{
         color: #23d3d3;
@@ -1030,12 +1024,8 @@ footer .social-icons a {
 
     .aboutcard{
         width: 90vw;
-        background-color: #ECECEC;
-        border: 1px solid #EADFFF;
         border-radius: 5px;
         padding: 20px 20px 20px 20px;
-        color: #211f1f;
-
     }
 
     .aboutcard a {
