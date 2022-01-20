@@ -220,15 +220,12 @@ ion-icon {
 
 }
 
-
-
 .divided{
     display: flex;
     justify-content: space-around;
     align-content: center;
     padding: 70px 20px 70px 20px;
     background-color: #E5EEF6;
-    
 }
 
 .fine{
