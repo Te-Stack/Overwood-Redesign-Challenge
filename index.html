@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/assets/favicon.png" type="image/png">
     <link rel="stylesheet" href="/assets/css/index.css">
+    <link rel="stylesheet" href="./aos-master/dist/aos.css">
     <link rel="stylesheet" href="/assets/css/Nav.css">
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
@@ -167,7 +168,8 @@
                 
                 <a href="www.google.com">Learn more ></a>
             </div>
-            <div class="aboutcard">
+            <div class="aboutcard" data-aos="fade-up"
+            data-aos-anchor-placement="top-bottom">
                 <i class="fas fa-chart-bar icons"></i>
                 <h2>Our Process </h2>    
                 <p>The step-by-step process for starting,monitoring, and withdrawing your investments</p>
@@ -441,6 +443,7 @@
      
     <script src="/assets/js/index.js"></script>
     <script src="https://kit.fontawesome.com/cce40f41e2.js" crossorigin="anonymous"></script>
+    <script src="./aos-master/dist/aos.js" crossorigin="anonymous"></script>
     <script type="text/javascript " src="//code.jquery.com/jquery-1.11.0.min.js "></script>
     <script type="text/javascript " src="//code.jquery.com/jquery-migrate-1.2.1.min.js "></script>
     <script type="text/javascript ">
@@ -469,5 +472,8 @@
         });
     </script>
     <script type="text/javascript " src="./slick/slick.js "></script>
+    <script>
+        AOS.init();
+      </script>
 </body>
 </html>
