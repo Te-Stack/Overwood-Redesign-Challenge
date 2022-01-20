@@ -300,7 +300,6 @@ ion-icon {
 
 .aboutcard{
     width: 30vw;
-    
     background-color: #ECECEC;
     border: solid 1px #EADFFF;
     padding: 20px;
@@ -831,27 +830,7 @@ footer .social-icons a {
         color: #211f1f;
     }
 
-    .aboutcard a {
-        text-decoration: none;
-        color:#23d3d3;
-
-    }
-    .aboutcard h2{
-        font-weight: bolder;
-    }
-
-
-    .about h1{
-        font-weight: bolder;
-        font-size: 3rem;
-    }
-
-    .container4{
-        display: flex;
-        justify-content: space-between;
-        
-    }
-
+    
     .products{
         background-color: #FAFEFE;
         padding-top: 40px;
@@ -870,14 +849,6 @@ footer .social-icons a {
         padding: 20px 50px 10px 10px;
         color: #211f1f;
         border: solid 1px #EADFFF;
-    }
-
-    
-    .client{
-       
-        background-color:#FAFEFE;
-        padding: 20px;
-        color: #211f1f;
     }
 
     .client img {
@@ -900,21 +871,7 @@ footer .social-icons a {
         
     }
 
-    .clientcard h5{
-        opacity: 0.5;
-    }
-
-    .container6{
-        display: flex;
     
-    }
-
-    .next{
-       
-        background-color: #FAFEFE;
-        padding: 20px;
-    }
-
     .nextcard{
         width: 85vw;
        min-height: 100px;
