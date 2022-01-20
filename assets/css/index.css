@@ -1055,6 +1055,16 @@ footer .social-icons a {
         padding-right: 30px;
     }
 
+    .clientcard{
+        width: 50vw;
+        background-color:#00387a;
+        padding: 40px 40px 10px 40px;
+        color: #FAFEFE;
+        border: solid 1px #00387a;
+        font-size: 1.5rem;
+        
+    }
+
     
 
 }
@@ -1336,11 +1346,10 @@ footer .social-icons a {
     .clientcard{
         width: 85vw;
         background-color: #00387a;
-        padding: 20px;
+        padding: 40px 55px 10px 55px;
         color: #FAFEFE;
         border: solid 1px #00387a;
-        font-size: 1.1rem;
-        
+        font-size: 1.2rem;
     }
 
     .clientcard h5{
