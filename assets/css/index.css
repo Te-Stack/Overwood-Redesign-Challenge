@@ -1012,43 +1012,7 @@ footer .social-icons a {
         border: solid 1px #EADFFF;
     }
 
-    .product1{
-        font-weight: bolder;
-        color:#1e266d;
-    }
-
-    .product2{
-        font-weight: bolder;
-        color: #23d3d3;
-    }
-
-    .product3{
-        font-weight: bolder;
-        color:#cf1ed2 ;
-    }
-
-    .span1{
-        font-weight: bolder;
-        color: #23d3d3;
-    }
-
-    .span2{
-        font-weight: bolder;
-        color: #1e266d;
-    }
-
-    .productcard a {
-        color: #23d3d3;
-    } 
-
-    .container5{
-        display: flex;
-
-    }
-    .desktopcard1{
-        display: none;
-    }
-
+    
     .client{
        
         background-color:#FAFEFE;
@@ -1101,15 +1065,10 @@ footer .social-icons a {
     }
 
     .nextcard h5{
-        font-weight: bolder;
-        color: #00387a;
         font-size: 1rem;
     }
 
-    .nextcard p{
-        color: #211f1f;
-    }
-
+    
     .str{
         font-size: 2rem;
     }
@@ -1403,37 +1362,18 @@ footer .social-icons a {
     }
 
     .product1{
-        font-weight: bolder;
-        color:#1e266d;
         font-size: 1.3rem;
     }
 
     .product2{
-        font-weight: bolder;
-        color: #23d3d3;
         font-size: 1.3rem;
     }
 
     .product3{
-        font-weight: bolder;
-        color:#cf1ed2 ;
         font-size: 1.3rem;
     }
 
-    .span1{
-        font-weight: bolder;
-        color: #23d3d3;
-    }
-
-    .span2{
-        font-weight: bolder;
-        color: #1e266d;
-    }
-
-    .productcard a {
-        color: #23d3d3;
-    }
-
+   
     .client{
         background-color: #FAFEFE;
         padding: 20px;
@@ -1494,15 +1434,6 @@ footer .social-icons a {
         padding: 20px;
         color: #211f1f;
         border: solid 1px #EADFFF;
-    }
-
-    .nextcard h5{
-        font-weight: bolder;
-        color: #00387a;
-    }
-
-    .nextcard p{
-        color: #211f1f;
     }
 
     .next button{
