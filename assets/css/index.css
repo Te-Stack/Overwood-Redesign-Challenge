@@ -231,7 +231,6 @@ ion-icon {
 .fine{
     width: 50vw;
 }
-  
 
 .divided-card{
     width: 50vw;
@@ -749,28 +748,9 @@ footer .social-icons a {
 
 @media screen and (max-width:1024px) {
 
-    *{
-        font-family: 'Poppins', sans-serif;
-
-    }
-    .home{
-        height:35vh;
-        background-color: #FAFEFE; 
-        display: block;
-
-    }
-    .desktop-home{
-        display: none;
-    }
-
     .container-cto{
         padding: 7rem 0 1rem 0;
         
-    }
-
-    .home-h1{
-        font-size: 1.5rem;
-        color:#FAFEFE ;
     }
 
     .mobile-icon{
@@ -780,73 +760,9 @@ footer .social-icons a {
         margin-top: -20px;
     }
 
-    #myBtn {
-        display: none;
-        position: fixed;
-        bottom: 20px;
-        right: 30px;
-        z-index: 99;
-        font-size: 15px;
-        border: none;
-        outline: none;
-        background-color:#00387a;
-        color: #F7F5F9;
-        cursor: pointer;
-        padding: 10px;
-        border-radius:5px;
-      }
-      
-      #myBtn:hover {
-        background-color: rgb(100, 255, 218);
-        color: #F7F5F9;
-
-        
-      }
-    
-    
-    
-    .banner{
-        padding: 20px;
-        padding-top: 4rem;
-    }
-
     .p1{
         color: #211f1f;
         font-weight: bolder;
-    }
-
-    
-    .banner h1{
-        color: #1e266d;
-        font-weight: bolder;
-        padding-top: 1rem;
-    }
-
-    span{
-        color: #1e266d;
-    }
-
-    .p2{
-        color: #211f1f;
-
-    }
-
-    .banner button{
-        margin-top: 10px;
-        width: 15vw;
-        height: 2.5vh;
-        color: #FAFEFE;
-        background-color: #00387a;
-        border: none;
-        font-weight: bold;
-    }
-
-    
-    .containe{
-        display: flex;
-        justify-content: space-between;
-        background-color: #FAFEFE;
-        padding: 20px;
     }
 
     .card{
@@ -882,15 +798,9 @@ footer .social-icons a {
     }
     
     .divided{
-        display: flex;
         padding: 70px 0 70px 0;
-        background-color: #E5EEF6;
-        padding: 20px ;
     }
 
-
-    
-      
 
     .divided-card{
         width: 80vw;
@@ -899,63 +809,16 @@ footer .social-icons a {
         padding-right: 30px;
     }
 
-    .divided h4{
-        color: #FAFEFE;
-        font-weight: bolder;
-        font-size: 1.5rem;
-    }
-
-    .divided-card img{
-        height: 4vh;
-        width: 120px;
-
-    }
-
-    .divided p{
-        color: #FAFEFE;
-        font-weight: 500;
-        
-    }
-
-    .right{
-         display: block;
-         float: right;
-    }
-
-    .divided h3{
-        color: #FAFEFE;
-        font-weight: bolder;
-        justify-self: flex-end;
-    }
-
-    .up{
-        opacity: 50%;
-    }
-
     
-    .container2{
-        display: flex;
-        justify-content: space-evenly;
-        
-    }
-
-    .container3{
-        display: flex;
-        justify-content: space-evenly;
-    
-    }
-
     .icons{
         color: #23d3d3;
         font-size: 2rem;
     }
 
-
     .about{
         background-color: #FAFEFE;
         padding: 20px;
         padding-top: 60px;
-        
     }
 
     .aboutcard{
