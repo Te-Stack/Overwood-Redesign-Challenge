@@ -1113,19 +1113,10 @@ footer .social-icons a {
     .nextcard{
         width: 85vw;
        min-height: 200px;
-        background-color: #F7F5F9;
         padding: 20px;
-        color: #211f1f;
-        border: solid 1px #EADFFF;
     }
 
-    .next button{
-        color: #FAFEFE;
-        background-color: #00387a;
-        width: 100px;
-        height: 35px ;
-    }
-
+    
     .end{
         background-color: #1e266d;
         color: #FAFEFE;
