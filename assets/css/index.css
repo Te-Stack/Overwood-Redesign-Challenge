@@ -1015,13 +1015,6 @@ footer .social-icons a {
         flex-direction: column;
     }
 
-    
-    .icons{
-        color: #23d3d3;
-        font-size: 2rem;
-       
-    }
-
     .aboutcard{
         width: 90vw;
         border-radius: 5px;
