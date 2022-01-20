@@ -885,11 +885,6 @@ footer .social-icons a {
         font-size: 1rem;
     }
 
-    
-    .str{
-        font-size: 2rem;
-    }
-
     .next button{
         color: #FAFEFE;
         background-color: #00387a;
@@ -897,30 +892,10 @@ footer .social-icons a {
         height: 40px;
     }
 
-    .next a{
-        text-decoration: none;
-        color: #23d3d3;
-    }
-
-
-    .container7{
-        display: flex;
-        justify-content: space-between;
-    }
-    
-    
-    
-
-
+   
 }
 
 @media screen and (max-width:800px) {
-    .home{
-        height:55vh;
-        background-color: #FAFEFE; 
-        display: block;
-    }
-
     .container-cto{
         padding: 0 0 1rem 0;
     }
@@ -951,48 +926,16 @@ footer .social-icons a {
     .divided-card{
         width: 50vw;
        
-        background-color: #00387a;
-        padding: 20px;
-        padding-right: 30px;
     }
 
     .clientcard{
         width: 50vw;
-        background-color:#00387a;
         padding: 40px 40px 10px 40px;
-        color: #FAFEFE;
-        border: solid 1px #00387a;
         font-size: 1.5rem;
-        
     }
-
-    
-
 }
 
 @media screen and (max-width:480px) {
-      #myBtn {
-        display: none;
-        width: 10vw;
-        position: fixed;
-        bottom: 20px;
-        right: 30px;
-        z-index: 99;
-        font-size: 25px;
-        border: none;
-        outline: none;
-        background-color:#00387a;
-        color: #F7F5F9;
-        cursor: pointer;
-        padding: 10px;
-        border-radius:5px;
-      }
-      
-      #myBtn:hover {
-        background-color: rgb(100, 255, 218);
-        color: #F7F5F9;
-        
-      }
 
       .container-cto{
         padding: 1rem 0 1rem 0;
