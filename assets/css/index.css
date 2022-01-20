@@ -47,15 +47,11 @@ html{
 
 }
 
-.card-section {
-    
-    background-color: #FAFEFE;
-    padding: 20px;
-}
-
 .containe{
     display: flex;
     justify-content: space-between;
+    background-color: #FAFEFE;
+    padding: 20px;
 }
 
 .card{
@@ -721,14 +717,12 @@ footer .social-icons a {
         font-weight: bold;
     }
 
-    .card-section {
-        background-color: #FAFEFE;
-        padding: 20px;
-        
-    }
+    
     .containe{
         display: flex;
         justify-content: space-between;
+        background-color: #FAFEFE;
+        padding: 20px;
     }
 
     .card{
