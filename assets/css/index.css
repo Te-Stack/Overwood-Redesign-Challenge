@@ -936,7 +936,6 @@ footer .social-icons a {
 }
 
 @media screen and (max-width:480px) {
-
       .container-cto{
         padding: 1rem 0 1rem 0;
         
@@ -948,8 +947,6 @@ footer .social-icons a {
         background-color: #FAFEFE;
         padding: 20px;
     }
-
-    
 
     .card{
         width: 320px;
@@ -982,9 +979,6 @@ footer .social-icons a {
         color: #877d7d;
 
     }
-
-    
-
     .divided{
         display: flex;
         flex-direction: column;
@@ -995,8 +989,6 @@ footer .social-icons a {
     .fine{
         width: 95vw;
     }
-
-      
 
     .divided-card{
         display: block;
@@ -1012,35 +1004,7 @@ footer .social-icons a {
         font-size: 1.5rem;
     }
 
-    .divided-card img{
-        height: 4vh;
-        width: 120px;
-
-    }
-
-    .divided p{
-        color: #FAFEFE;
-        font-weight: 500;
-        
-    }
-
-    .right{
-        display: block;
-        float: right;
-         
-         
-    }
-
-    .divided h3{
-        color: #FAFEFE;
-        font-weight: bolder;
-        justify-self: flex-end;
-    }
-
-    .up{
-        opacity: 50%;
-    }
-
+    
     .container2{
         display: flex;
         flex-direction: column;
@@ -1131,7 +1095,6 @@ footer .social-icons a {
         font-size: 1.3rem;
     }
 
-   
     .client{
         background-color: #FAFEFE;
         padding: 20px;
@@ -1146,10 +1109,6 @@ footer .social-icons a {
     .container5{
         display: flex;
         flex-direction: column;
-    }
-
-    .desktopcard{
-        display: none;
     }
 
     .client h1{
@@ -1167,10 +1126,6 @@ footer .social-icons a {
         font-size: 1.2rem;
     }
 
-    .clientcard h5{
-        opacity: 0.5;
-    }
-
     .container6{
         display: flex;
         flex-direction: column;
@@ -1181,9 +1136,6 @@ footer .social-icons a {
         padding: 20px;
         color: #00387a;
     }
-
-
-
 
     .nextcard{
         width: 85vw;
