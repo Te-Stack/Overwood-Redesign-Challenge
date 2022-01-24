@@ -527,6 +527,7 @@ ion-icon {
     padding-bottom: 30px;
     padding: 0 15px;
     margin-bottom: 30px;
+    cursor: pointer;
 }
 
 .blog .blog-card .blog-text {
